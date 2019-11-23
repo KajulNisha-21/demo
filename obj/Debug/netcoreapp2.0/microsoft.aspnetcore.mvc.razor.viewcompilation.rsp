@@ -1,0 +1,5 @@
+D:\Exercises\Webapi_Microservices_Docker\Webapi_Microservices_Docker
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Webapi_Microservices_Docker
+--content-root=D:\Exercises\Webapi_Microservices_Docker\Webapi_Microservices_Docker
+--file=
